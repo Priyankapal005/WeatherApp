@@ -11,11 +11,11 @@ The app is developed using React.js .
 
 ## 💻 Live Demo:
 
-https://the-weather-forecasting.netlify.app
+skypulseweather.netlify.app
 
 <br/>
 
-- Clone the repository:
+- Clone the repository:https://github.com/Priyankapal005/weatherapp
 
 ```bash
 git clone
