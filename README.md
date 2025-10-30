@@ -10,7 +10,7 @@ The app is developed using React.js .
 <br/>
 
 ## 💻 Live Demo:
-skypulseweather.netlify.app
+https://skypulseweather.netlify.app
 
 <br/>
 
