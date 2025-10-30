@@ -1,2 +1,28 @@
-# WeatherApp
-A simple and responsive Weather App built using modern web technologies that allows users to check real-time weather information for any city in the world. The app fetches live data from a weather API and displays details such as temperature, humidity, wind speed, and weather conditions with a clean and user-friendly interface.
+![Application screenshot](./public/screenshot.png)
+
+<br/>
+<br/>
+
+With [The Weather Forecasting](https://the-weather-forecasting.netlify.app) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
+<br />
+The app is developed using React.js .
+
+<br/>
+
+## 💻 Live Demo:
+
+https://the-weather-forecasting.netlify.app
+
+<br/>
+
+- Clone the repository:
+
+```bash
+git clone
+```
+
+- Install the packages using the command `npm install`
+
+<br/>
+
+Thank You ☺
